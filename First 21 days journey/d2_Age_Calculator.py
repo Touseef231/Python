@@ -1,3 +1,6 @@
+# This is day 2 project which is quite more advance then day 2
+# In this project we enter our birth year and this calculate our age and approx days, hours and seconds we lived 
+# Age is exact other things are approx
 import datetime
 current_year = datetime.datetime.now().year
 birth_year = int(input("Enter your birth year: "))
